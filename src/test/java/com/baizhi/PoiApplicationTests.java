@@ -12,6 +12,7 @@ public class PoiApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("测试GitHub");
+        System.out.println("测试GitHub2");
     }
 
 }
